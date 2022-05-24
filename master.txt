@@ -1,4 +1,8 @@
 master
 master 2
 master 3
+<<<<<<< HEAD
 master 4
+=======
+master en casa
+>>>>>>> Casa
